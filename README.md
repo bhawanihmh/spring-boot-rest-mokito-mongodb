@@ -29,3 +29,4 @@ spring boot rest using mokito and mongodb example <br>
 ]
 <br>
 3. to verify : db.studendat.find().pretty(); <br>
+4. get request : http://localhost:8083/studentdatas
