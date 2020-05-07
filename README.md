@@ -4,7 +4,8 @@ spring boot rest using mokito and mongodb example <br>
 # create db and data using below command
 1. use students <br>
 2. db.studentdata.insertMany([{},{},...]) : add data in studentData collection <br>
-[
+```
+db.studentdata.insertMany([
 {
 	"name": "Bhawani",
 	"email": "bhawani@gmail.com",
@@ -25,8 +26,8 @@ spring boot rest using mokito and mongodb example <br>
 	"contact": "9999999888",
 	"courseCount": 2,
 	"isVerified": false
-}
-]
+}])
+```
 <br>
-3. to verify : db.studendat.find().pretty(); <br>
+3. to verify : db.studentdata.find().pretty(); <br>
 4. get request : http://localhost:8083/studentdatas
