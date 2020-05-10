@@ -87,4 +87,6 @@ try {
 }
 
 ```
-Ref :  https://docs.mongodb.com/manual/reference/command/
+Ref :  https://docs.mongodb.com/manual/reference/command/ <br>
+https://dzone.com/articles/top-10-most-common-commands-for-beginners <br>
+https://itnext.io/mongodb-from-zero-to-rock-16-most-important-commands-to-start-using-this-nosql-database-b46728bc0e41
